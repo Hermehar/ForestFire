@@ -1,4 +1,3 @@
-#Forest Fire Detector
 This program helps the user to find out the Forest Fire, from the image. This program takes the image from the user and identifies the fire in it. Fire is represented in red color.
 
 
