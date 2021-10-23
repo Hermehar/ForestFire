@@ -1,0 +1,4 @@
+Python 3.9.4
+python.image.editor
+Pillow-7.1.1
+SimpleImages Library
