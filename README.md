@@ -1,5 +1,10 @@
 This program helps the user to find out the Forest Fire, from the image. This program takes the image from the user and identifies the fire in it. Fire is represented in red color.
 
+First Window 
+![image](https://user-images.githubusercontent.com/63737394/138557479-088795b3-30d8-433b-a9a6-eaf07ef153fa.png)
+
+Second Window
+![image](https://user-images.githubusercontent.com/63737394/138557490-812be34a-e78d-4a3c-8b2a-2c60912db692.png)
 
 Original Image
 
