@@ -6,7 +6,8 @@ First Window
 
 Second Window
 
-![image](https://user-images.githubusercontent.com/63737394/138557490-812be34a-e78d-4a3c-8b2a-2c60912db692.png)
+![image](https://user-images.githubusercontent.com/63737394/138558075-f94c35e9-03cc-48c0-b448-914cf07d88c0.png)
+
 
 Original Image
 
