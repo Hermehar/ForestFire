@@ -44,7 +44,7 @@ def open_file():                                        #opening a file
 
 def layout():                                           #entry fields
     
-    l1 = Label(root, text = "Please select a jpeg or png file of your Brain MRI.").grid(row = 1, column = 1)
+    l1 = Label(root, text = "Please select a jpeg or png file").grid(row = 1, column = 1)
 
     open_filename_button = Button(root, text = "Select File", command = open_file, fg = "#33FFCA", bg = "black").grid(row = 1, column = 2)
   
